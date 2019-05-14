@@ -1,31 +1,45 @@
-# Document structure example
+# Document Structure Example
 
 ## Project Name
-Name of the proposal.
+What is the name of your project? 
 
 ## Problem
-Explain what problem are you trying to solve with this proposal. 1 - 2 paragraphs.
+What problem are you trying to solve with this proposal? 
+
+In 1-2 paragraphs, explain the problem that exists and why a solution is needed. Why has this problem not yet been solved, and what are the reasons why previous attempts at solving it have been unsuccessful?  
 
 ## Solution
-How are you gonna solve it. 1 - 2 paragraphs. 1 - 2 paragraphs.
+What is your solution to the problem at hand? 
+
+This section should contain the most detailed description of your project and should offer concrete details around the specifics of _how_ you will go about solving the problem detailed above. This section should be 1-2 paragraphs. 
 
 ## Competitors
-Brief explanation of competitors in the ecosystem (if applies).
+Who are your competitors? 
+
+In this section, you should offer a brief description of your competitors (if applicable). You should talk about other projects that are attempting to solve the same problem, and discuss how your approach is different and/or superior. 
 
 ## Execution Plan
-Milestones that you want to achieve. Please explain expected time for each of the milestones and scoped measurable tasks.
+How do you and your team plan to build this project? 
 
-## Fund releasing Plan
-In this section we want to understand what's the reasoning behind the amount that you are proposing. This can match the milestones that are in the execution Plan.
+In this section, you should specifically define a plan of action for building and deploying your project. First, you should list the major milestones for the project. Make sure that you explicitly define what is included in each milestone. Next, you should attempt to map your project milestones to a specific timeline. How much time do you expect each milestone to take to complete? 
 
-For each milestone you must resend the proposal, and it will be voted by the token holders. You can decide if you want to do 1 big milestone, or split in several milestones in order to be validated and get paid earlier.
+Wherever possible, offer specifics around tasks and timelines. Each milestone should be the result of specific scoped and measurable tasks that can allow for clear recognition and accountability. 
 
-Remember to add workforce, aproximately salaries, and costs (servers, domains, etc.).
+## Fund Release Plan
+How much will the project cost, and how should funds be deployed? 
 
-For example, if you ask for 500,000 BOS for a project scoped in 6 months, you can split it in several milestones where you get audited, paid and you need to get voted by token holders, or you can do 1 big milestone of 6 months, where you will be audited and paid at the end of the project.
+In this section you should present the cost of the project and explain the reasoning behind that specific amount. 
+
+This section should also contain a release plan for the funds based around the milestones from the Execution Plan. For most projects, funds will be released in batches in order to properly align incentives and create better accountability. This means that you can apply to have specific funding released after certain milestones are hit.
+
+Project proposals will be re-submitted after each milestone, and token holders will be able to vote on funding. Breaking up the project into smaller milestones will allow your team to recieve funding in stages as the project progresses. If you prefer to structure the project around one major milestone, then you can apply to recieve funding after the project is complete.  
+
+Be as specific as possible around costs-- team, salaries, servers and infrastructure, etc. 
 
 ## Team
-Who is in the team, and why they are bringing value to accomplish the proposal.
+Who are the people behind this project? 
+
+In this section, you should offer a brief background on the members of your team and talk about the unique value that they bring to the project. 
 
 ## Relevant Links
-Links that can bring extra information for the proposal.
+Links that offer further information related to the proposal. 
